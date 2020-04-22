@@ -1,5 +1,3 @@
-import { linen } from "color-name";
-
 let img = [];
 let fullSize = 875;
 let each;
